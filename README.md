@@ -20,10 +20,10 @@ yarn add top-level-domains
 
 ```javascript
 // ESM
-import { tlds, isTld, getPunycode, searchTlds } from 'top-level-domains';
+import { tlds, isTld, getPunycode, searchTlds, getAllTlds } from 'top-level-domains';
 
 // CommonJS
-const { tlds, isTld, getPunycode, searchTlds } = require('top-level-domains');
+const { tlds, isTld, getPunycode, searchTlds, getAllTlds } = require('top-level-domains');
 
 // Check if a string is a valid TLD
 console.log(isTld('com')); // true
@@ -38,6 +38,7 @@ console.log(results); // Returns all TLDs containing 'com'
 
 // Get all TLDs as an array of strings
 const allTlds = getAllTlds();
+console.log(allTlds); // Returns all TLDs as an array of strings
 ```
 
 ## Structure
