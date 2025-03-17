@@ -2,16 +2,17 @@
     "name": "top-level-domains",
     "version": "1.0.1",
     "description": "A comprehensive list of all existing Top-Level Domains (TLDs) that can be registered",
-    "main": "dist/index.js",
-    "types": "dist/index.d.ts",
+    "main": "dist/src/index.js",
+    "types": "dist/src/index.d.ts",
     "files": [
         "dist",
         "data.json"
     ],
     "scripts": {
         "build": "tsc",
-        "prepublishOnly": "npm run build",
+        "prepublishOnly": "npm run build && npm run test && npm run test:package",
         "test": "jest",
+        "test:package": "node scripts/test-package.js",
         "release": "node scripts/release.js",
         "release:patch": "node scripts/release.js patch",
         "release:minor": "node scripts/release.js minor",
