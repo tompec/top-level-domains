@@ -57,4 +57,56 @@ describe('TLD List', () => {
         const emptyResults = searchTlds('notarealtld123456');
         expect(emptyResults.length).toBe(0);
     });
+
+    test('tlds should be sorted by punycode', () => {
+        // Create a sorted copy of the TLDs array by punycode
+        const sortedTlds = [...tlds].sort((a, b) => a.punycode.localeCompare(b.punycode));
+
+        // Compare original array with sorted one
+        for (let i = 0; i < tlds.length; i++) {
+            const isOrdered = tlds[i].punycode === sortedTlds[i].punycode;
+            expect(isOrdered).toBe(true);
+            if (!isOrdered) {
+                console.error(`TLD at index ${i} is out of order: found "${tlds[i].punycode}", expected "${sortedTlds[i].punycode}"`);
+            }
+        }
+    });
+
+    test('tlds should not contain duplicates', () => {
+        // Check for duplicate TLDs by both display form and punycode
+        const displayTldCounts = new Map<string, number>();
+        const punycodeTldCounts = new Map<string, number>();
+        const duplicateDisplayTlds: string[] = [];
+        const duplicatePunycodeTlds: string[] = [];
+
+        // Count occurrences of each TLD
+        tlds.forEach(entry => {
+            // Count display form TLDs
+            const displayCount = displayTldCounts.get(entry.tld) || 0;
+            displayTldCounts.set(entry.tld, displayCount + 1);
+            if (displayCount === 1) {
+                duplicateDisplayTlds.push(entry.tld);
+            }
+
+            // Count punycode TLDs
+            const punycodeCount = punycodeTldCounts.get(entry.punycode) || 0;
+            punycodeTldCounts.set(entry.punycode, punycodeCount + 1);
+            if (punycodeCount === 1) {
+                duplicatePunycodeTlds.push(entry.punycode);
+            }
+        });
+
+        // Display any duplicates found
+        if (duplicateDisplayTlds.length > 0) {
+            console.error(`Found ${duplicateDisplayTlds.length} duplicate display TLDs:`, duplicateDisplayTlds);
+        }
+
+        if (duplicatePunycodeTlds.length > 0) {
+            console.error(`Found ${duplicatePunycodeTlds.length} duplicate punycode TLDs:`, duplicatePunycodeTlds);
+        }
+
+        // Assert no duplicates
+        expect(duplicateDisplayTlds.length).toBe(0);
+        expect(duplicatePunycodeTlds.length).toBe(0);
+    });
 });

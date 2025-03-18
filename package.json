@@ -13,6 +13,7 @@
         "prepublishOnly": "npm run build && npm run test && npm run test:package",
         "test": "jest",
         "test:package": "node scripts/test-package.js",
+        "sort": "node scripts/sort-tlds.js",
         "release": "node scripts/release.js",
         "release:patch": "node scripts/release.js patch",
         "release:minor": "node scripts/release.js minor",

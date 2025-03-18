@@ -12076,14 +12076,6 @@
     "punycode": "verisign"
   },
   {
-    "tld": "vermögensberater",
-    "punycode": "xn--vermgensberater-ctb"
-  },
-  {
-    "tld": "vermögensberatung",
-    "punycode": "xn--vermgensberatung-pwb"
-  },
-  {
     "tld": "verona.it",
     "punycode": "verona.it"
   },
@@ -12536,6 +12528,698 @@
     "punycode": "xj.cn"
   },
   {
+    "tld": "कॉम",
+    "punycode": "xn--11b4c3d"
+  },
+  {
+    "tld": "ธุรกิจ.ไทย",
+    "punycode": "xn--12co0c3b4eva.xn--o3cw4h"
+  },
+  {
+    "tld": "セール",
+    "punycode": "xn--1ck2e1b"
+  },
+  {
+    "tld": "佛山",
+    "punycode": "xn--1qqw23a"
+  },
+  {
+    "tld": "ಭಾರತ",
+    "punycode": "xn--2scrj9c"
+  },
+  {
+    "tld": "慈善",
+    "punycode": "xn--30rr7y"
+  },
+  {
+    "tld": "集团",
+    "punycode": "xn--3bst00m"
+  },
+  {
+    "tld": "在线",
+    "punycode": "xn--3ds443g"
+  },
+  {
+    "tld": "한국",
+    "punycode": "xn--3e0b707e"
+  },
+  {
+    "tld": "ଭାରତ",
+    "punycode": "xn--3hcrj9c"
+  },
+  {
+    "tld": "点看",
+    "punycode": "xn--3pxu8k"
+  },
+  {
+    "tld": "คอม",
+    "punycode": "xn--42c2d9a"
+  },
+  {
+    "tld": "ভাৰত",
+    "punycode": "xn--45br5cyl"
+  },
+  {
+    "tld": "ভারত",
+    "punycode": "xn--45brj9c"
+  },
+  {
+    "tld": "八卦",
+    "punycode": "xn--45q11c"
+  },
+  {
+    "tld": "ישראל",
+    "punycode": "xn--4dbrk0ce"
+  },
+  {
+    "tld": "موقع",
+    "punycode": "xn--4gbrim"
+  },
+  {
+    "tld": "বাংলা",
+    "punycode": "xn--54b7fta0cc"
+  },
+  {
+    "tld": "公益",
+    "punycode": "xn--55qw42g"
+  },
+  {
+    "tld": "公司",
+    "punycode": "xn--55qx5d"
+  },
+  {
+    "tld": "公司.hk",
+    "punycode": "xn--55qx5d.hk"
+  },
+  {
+    "tld": "公司.香港",
+    "punycode": "xn--55qx5d.xn--j6w193g"
+  },
+  {
+    "tld": "香格里拉",
+    "punycode": "xn--5su34j936bgsg"
+  },
+  {
+    "tld": "网站",
+    "punycode": "xn--5tzm5g"
+  },
+  {
+    "tld": "移动",
+    "punycode": "xn--6frz82g"
+  },
+  {
+    "tld": "我爱你",
+    "punycode": "xn--6qq986b3xl"
+  },
+  {
+    "tld": "москва",
+    "punycode": "xn--80adxhks"
+  },
+  {
+    "tld": "қаз",
+    "punycode": "xn--80ao21a"
+  },
+  {
+    "tld": "католик",
+    "punycode": "xn--80aqecdr1a"
+  },
+  {
+    "tld": "онлайн",
+    "punycode": "xn--80asehdb"
+  },
+  {
+    "tld": "сайт",
+    "punycode": "xn--80aswg"
+  },
+  {
+    "tld": "ак.срб",
+    "punycode": "xn--80au.xn--90a3ac"
+  },
+  {
+    "tld": "联通",
+    "punycode": "xn--8y0a063a"
+  },
+  {
+    "tld": "срб",
+    "punycode": "xn--90a3ac"
+  },
+  {
+    "tld": "бг",
+    "punycode": "xn--90ae"
+  },
+  {
+    "tld": "бел",
+    "punycode": "xn--90ais"
+  },
+  {
+    "tld": "קום",
+    "punycode": "xn--9dbq2a"
+  },
+  {
+    "tld": "时尚",
+    "punycode": "xn--9et52u"
+  },
+  {
+    "tld": "微博",
+    "punycode": "xn--9krt00a"
+  },
+  {
+    "tld": "淡马锡",
+    "punycode": "xn--b4w605ferd"
+  },
+  {
+    "tld": "ファッション",
+    "punycode": "xn--bck1b9a5dre4c"
+  },
+  {
+    "tld": "орг",
+    "punycode": "xn--c1avg"
+  },
+  {
+    "tld": "орг.рф",
+    "punycode": "xn--c1avg.xn--p1ai"
+  },
+  {
+    "tld": "नेट",
+    "punycode": "xn--c2br7g"
+  },
+  {
+    "tld": "ストア",
+    "punycode": "xn--cck2b3b"
+  },
+  {
+    "tld": "アマゾン",
+    "punycode": "xn--cckwcxetd"
+  },
+  {
+    "tld": "삼성",
+    "punycode": "xn--cg4bki"
+  },
+  {
+    "tld": "சிங்கப்பூர்",
+    "punycode": "xn--clchc0ea0b2g2a9gcd"
+  },
+  {
+    "tld": "商标",
+    "punycode": "xn--czr694b"
+  },
+  {
+    "tld": "商店",
+    "punycode": "xn--czrs0t"
+  },
+  {
+    "tld": "商城",
+    "punycode": "xn--czru2d"
+  },
+  {
+    "tld": "дети",
+    "punycode": "xn--d1acj3b"
+  },
+  {
+    "tld": "мкд",
+    "punycode": "xn--d1alf"
+  },
+  {
+    "tld": "ਕੰਪਨੀ.ਭਾਰਤ",
+    "punycode": "xn--d9b2bf3g1k.xn--s9brj9c"
+  },
+  {
+    "tld": "ею",
+    "punycode": "xn--e1a4c"
+  },
+  {
+    "tld": "нет.рф",
+    "punycode": "xn--e1apq.xn--p1ai"
+  },
+  {
+    "tld": "ポイント",
+    "punycode": "xn--eckvdtc9d"
+  },
+  {
+    "tld": "新闻",
+    "punycode": "xn--efvy88h"
+  },
+  {
+    "tld": "家電",
+    "punycode": "xn--fct429k"
+  },
+  {
+    "tld": "كمپنی.بھارت",
+    "punycode": "xn--fhbed7t1n.xn--mgbbh1a71e"
+  },
+  {
+    "tld": "كوم",
+    "punycode": "xn--fhbei"
+  },
+  {
+    "tld": "中文网",
+    "punycode": "xn--fiq228c5hs"
+  },
+  {
+    "tld": "中信",
+    "punycode": "xn--fiq64b"
+  },
+  {
+    "tld": "中国",
+    "punycode": "xn--fiqs8s"
+  },
+  {
+    "tld": "中國",
+    "punycode": "xn--fiqz9s"
+  },
+  {
+    "tld": "娱乐",
+    "punycode": "xn--fjq720a"
+  },
+  {
+    "tld": "谷歌",
+    "punycode": "xn--flw351e"
+  },
+  {
+    "tld": "భారత్",
+    "punycode": "xn--fpcrj9c3d"
+  },
+  {
+    "tld": "ලංකා",
+    "punycode": "xn--fzc2c9e2c"
+  },
+  {
+    "tld": "電訊盈科",
+    "punycode": "xn--fzys8d69uvgm"
+  },
+  {
+    "tld": "购物",
+    "punycode": "xn--g2xx48c"
+  },
+  {
+    "tld": "クラウド",
+    "punycode": "xn--gckr3f0f"
+  },
+  {
+    "tld": "ભારત",
+    "punycode": "xn--gecrj9c"
+  },
+  {
+    "tld": "通販",
+    "punycode": "xn--gk3at1e"
+  },
+  {
+    "tld": "個人.香港",
+    "punycode": "xn--gmqw5a.xn--j6w193g"
+  },
+  {
+    "tld": "కంపెనీ.భారత్",
+    "punycode": "xn--goc1b4ch5i8a.xn--fpcrj9c3d"
+  },
+  {
+    "tld": "भारतम्",
+    "punycode": "xn--h2breg3eve"
+  },
+  {
+    "tld": "भारत",
+    "punycode": "xn--h2brj9c"
+  },
+  {
+    "tld": "भारोत",
+    "punycode": "xn--h2brj9c8c"
+  },
+  {
+    "tld": "કંપની.ભારત",
+    "punycode": "xn--hdc1b4ch5i.xn--gecrj9c"
+  },
+  {
+    "tld": "网店",
+    "punycode": "xn--hxt814e"
+  },
+  {
+    "tld": "कंपनी.भारत",
+    "punycode": "xn--i1b1b4ch5i.xn--h2brj9c"
+  },
+  {
+    "tld": "संगठन",
+    "punycode": "xn--i1b6b1a6a2e"
+  },
+  {
+    "tld": "餐厅",
+    "punycode": "xn--imr513n"
+  },
+  {
+    "tld": "网络",
+    "punycode": "xn--io0a7i"
+  },
+  {
+    "tld": "ком",
+    "punycode": "xn--j1aef"
+  },
+  {
+    "tld": "ком.рф",
+    "punycode": "xn--j1aef.xn--p1ai"
+  },
+  {
+    "tld": "укр",
+    "punycode": "xn--j1amh"
+  },
+  {
+    "tld": "香港",
+    "punycode": "xn--j6w193g"
+  },
+  {
+    "tld": "亚马逊",
+    "punycode": "xn--jlq480n2rg"
+  },
+  {
+    "tld": "食品",
+    "punycode": "xn--jvr189m"
+  },
+  {
+    "tld": "飞利浦",
+    "punycode": "xn--kcrx77d1x4a"
+  },
+  {
+    "tld": "台湾",
+    "punycode": "xn--kprw13d"
+  },
+  {
+    "tld": "台灣",
+    "punycode": "xn--kpry57d"
+  },
+  {
+    "tld": "手机",
+    "punycode": "xn--kput3i"
+  },
+  {
+    "tld": "мон",
+    "punycode": "xn--l1acc"
+  },
+  {
+    "tld": "الجزائر",
+    "punycode": "xn--lgbbat1ad8j"
+  },
+  {
+    "tld": "عمان",
+    "punycode": "xn--mgb9awbf"
+  },
+  {
+    "tld": "ارامكو",
+    "punycode": "xn--mgba3a3ejt"
+  },
+  {
+    "tld": "ایران",
+    "punycode": "xn--mgba3a4f16a"
+  },
+  {
+    "tld": "العليان",
+    "punycode": "xn--mgba7c0bbn0a"
+  },
+  {
+    "tld": "امارات",
+    "punycode": "xn--mgbaam7a8h"
+  },
+  {
+    "tld": "بازار",
+    "punycode": "xn--mgbab2bd"
+  },
+  {
+    "tld": "موريتانيا",
+    "punycode": "xn--mgbah1a3hjkrd"
+  },
+  {
+    "tld": "پاكستان",
+    "punycode": "xn--mgbai9a5eva00b"
+  },
+  {
+    "tld": "پاکستان",
+    "punycode": "xn--mgbai9azgqp6j"
+  },
+  {
+    "tld": "الاردن",
+    "punycode": "xn--mgbayh7gpa"
+  },
+  {
+    "tld": "بارت",
+    "punycode": "xn--mgbbh1a"
+  },
+  {
+    "tld": "بھارت",
+    "punycode": "xn--mgbbh1a71e"
+  },
+  {
+    "tld": "المغرب",
+    "punycode": "xn--mgbc0a9azcg"
+  },
+  {
+    "tld": "ابوظبي",
+    "punycode": "xn--mgbca7dzdo"
+  },
+  {
+    "tld": "البحرين",
+    "punycode": "xn--mgbcpq6gpa1a"
+  },
+  {
+    "tld": "السعودية",
+    "punycode": "xn--mgberp4a5d4ar"
+  },
+  {
+    "tld": "ڀارت",
+    "punycode": "xn--mgbgu82a"
+  },
+  {
+    "tld": "كاثوليك",
+    "punycode": "xn--mgbi4ecexp"
+  },
+  {
+    "tld": "سودان",
+    "punycode": "xn--mgbpl2fh"
+  },
+  {
+    "tld": "همراه",
+    "punycode": "xn--mgbt3dhd"
+  },
+  {
+    "tld": "عراق",
+    "punycode": "xn--mgbtx2b"
+  },
+  {
+    "tld": "مليسيا",
+    "punycode": "xn--mgbx4cd0ab"
+  },
+  {
+    "tld": "澳門",
+    "punycode": "xn--mix891f"
+  },
+  {
+    "tld": "닷컴",
+    "punycode": "xn--mk1bu44c"
+  },
+  {
+    "tld": "政府",
+    "punycode": "xn--mxtq1m"
+  },
+  {
+    "tld": "政府.香港",
+    "punycode": "xn--mxtq1m.xn--j6w193g"
+  },
+  {
+    "tld": "شبكة",
+    "punycode": "xn--ngbc5azd"
+  },
+  {
+    "tld": "بيتك",
+    "punycode": "xn--ngbe9e0a"
+  },
+  {
+    "tld": "عرب",
+    "punycode": "xn--ngbrx"
+  },
+  {
+    "tld": "გე",
+    "punycode": "xn--node"
+  },
+  {
+    "tld": "机构",
+    "punycode": "xn--nqv7f"
+  },
+  {
+    "tld": "组织机构",
+    "punycode": "xn--nqv7fs00ema"
+  },
+  {
+    "tld": "健康",
+    "punycode": "xn--nyqy26a"
+  },
+  {
+    "tld": "пр.срб",
+    "punycode": "xn--o1ac.xn--90a3ac"
+  },
+  {
+    "tld": "упр.срб",
+    "punycode": "xn--o1ach.xn--90a3ac"
+  },
+  {
+    "tld": "ไทย",
+    "punycode": "xn--o3cw4h"
+  },
+  {
+    "tld": "網絡.香港",
+    "punycode": "xn--od0alg.xn--j6w193g"
+  },
+  {
+    "tld": "سورية",
+    "punycode": "xn--ogbpf8fl"
+  },
+  {
+    "tld": "招聘",
+    "punycode": "xn--otu796d"
+  },
+  {
+    "tld": "рус",
+    "punycode": "xn--p1acf"
+  },
+  {
+    "tld": "рф",
+    "punycode": "xn--p1ai"
+  },
+  {
+    "tld": "কোম্পানি.ভারত",
+    "punycode": "xn--p5b2bfp5fh3fra.xn--45brj9c"
+  },
+  {
+    "tld": "تونس",
+    "punycode": "xn--pgbs0dh"
+  },
+  {
+    "tld": "大拿",
+    "punycode": "xn--pssy2u"
+  },
+  {
+    "tld": "ລາວ",
+    "punycode": "xn--q7ce6a"
+  },
+  {
+    "tld": "みんな",
+    "punycode": "xn--q9jyb4c"
+  },
+  {
+    "tld": "グーグル",
+    "punycode": "xn--qcka1pmc"
+  },
+  {
+    "tld": "ευ",
+    "punycode": "xn--qxa6a"
+  },
+  {
+    "tld": "ελ",
+    "punycode": "xn--qxam"
+  },
+  {
+    "tld": "世界",
+    "punycode": "xn--rhqv96g"
+  },
+  {
+    "tld": "書籍",
+    "punycode": "xn--rovu88b"
+  },
+  {
+    "tld": "ഭാരതം",
+    "punycode": "xn--rvc1e0am3e"
+  },
+  {
+    "tld": "ਭਾਰਤ",
+    "punycode": "xn--s9brj9c"
+  },
+  {
+    "tld": "网址",
+    "punycode": "xn--ses554g"
+  },
+  {
+    "tld": "닷넷",
+    "punycode": "xn--t60b56a"
+  },
+  {
+    "tld": "コム",
+    "punycode": "xn--tckwe"
+  },
+  {
+    "tld": "天主教",
+    "punycode": "xn--tiq49xqyj"
+  },
+  {
+    "tld": "組織.香港",
+    "punycode": "xn--uc0atv.xn--j6w193g"
+  },
+  {
+    "tld": "游戏",
+    "punycode": "xn--unup4y"
+  },
+  {
+    "tld": "vermögensberater",
+    "punycode": "xn--vermgensberater-ctb"
+  },
+  {
+    "tld": "vermögensberatung",
+    "punycode": "xn--vermgensberatung-pwb"
+  },
+  {
+    "tld": "企业",
+    "punycode": "xn--vhquv"
+  },
+  {
+    "tld": "நிறுவனம்.இந்தியா",
+    "punycode": "xn--vlccpku2dp3h.xn--xkc2dl3a5ee0h"
+  },
+  {
+    "tld": "信息",
+    "punycode": "xn--vuq861b"
+  },
+  {
+    "tld": "嘉里大酒店",
+    "punycode": "xn--w4r85el8fhu5dnra"
+  },
+  {
+    "tld": "嘉里",
+    "punycode": "xn--w4rs40l"
+  },
+  {
+    "tld": "教育.香港",
+    "punycode": "xn--wcvs22d.xn--j6w193g"
+  },
+  {
+    "tld": "مصر",
+    "punycode": "xn--wgbh1c"
+  },
+  {
+    "tld": "قطر",
+    "punycode": "xn--wgbl6a"
+  },
+  {
+    "tld": "广东",
+    "punycode": "xn--xhq521b"
+  },
+  {
+    "tld": "இலங்கை",
+    "punycode": "xn--xkc2al3hye2a"
+  },
+  {
+    "tld": "இந்தியா",
+    "punycode": "xn--xkc2dl3a5ee0h"
+  },
+  {
+    "tld": "հայ",
+    "punycode": "xn--y9a3aq"
+  },
+  {
+    "tld": "新加坡",
+    "punycode": "xn--yfro4i67o"
+  },
+  {
+    "tld": "فلسطين",
+    "punycode": "xn--ygbi2ammx"
+  },
+  {
+    "tld": "政务",
+    "punycode": "xn--zfr164b"
+  },
+  {
     "tld": "xxx",
     "punycode": "xxx"
   },
@@ -12690,689 +13374,5 @@
   {
     "tld": "zw",
     "punycode": "zw"
-  },
-  {
-    "tld": "ελ",
-    "punycode": "xn--qxam"
-  },
-  {
-    "tld": "ευ",
-    "punycode": "xn--qxa6a"
-  },
-  {
-    "tld": "ак.срб",
-    "punycode": "xn--80au.xn--90a3ac"
-  },
-  {
-    "tld": "бг",
-    "punycode": "xn--90ae"
-  },
-  {
-    "tld": "бел",
-    "punycode": "xn--90ais"
-  },
-  {
-    "tld": "дети",
-    "punycode": "xn--d1acj3b"
-  },
-  {
-    "tld": "ею",
-    "punycode": "xn--e1a4c"
-  },
-  {
-    "tld": "католик",
-    "punycode": "xn--80aqecdr1a"
-  },
-  {
-    "tld": "ком",
-    "punycode": "xn--j1aef"
-  },
-  {
-    "tld": "ком.рф",
-    "punycode": "xn--j1aef.xn--p1ai"
-  },
-  {
-    "tld": "мкд",
-    "punycode": "xn--d1alf"
-  },
-  {
-    "tld": "мон",
-    "punycode": "xn--l1acc"
-  },
-  {
-    "tld": "москва",
-    "punycode": "xn--80adxhks"
-  },
-  {
-    "tld": "нет.рф",
-    "punycode": "xn--e1apq.xn--p1ai"
-  },
-  {
-    "tld": "онлайн",
-    "punycode": "xn--80asehdb"
-  },
-  {
-    "tld": "орг",
-    "punycode": "xn--c1avg"
-  },
-  {
-    "tld": "орг.рф",
-    "punycode": "xn--c1avg.xn--p1ai"
-  },
-  {
-    "tld": "пр.срб",
-    "punycode": "xn--o1ac.xn--90a3ac"
-  },
-  {
-    "tld": "рус",
-    "punycode": "xn--p1acf"
-  },
-  {
-    "tld": "рф",
-    "punycode": "xn--p1ai"
-  },
-  {
-    "tld": "сайт",
-    "punycode": "xn--80aswg"
-  },
-  {
-    "tld": "срб",
-    "punycode": "xn--90a3ac"
-  },
-  {
-    "tld": "укр",
-    "punycode": "xn--j1amh"
-  },
-  {
-    "tld": "упр.срб",
-    "punycode": "xn--o1ach.xn--90a3ac"
-  },
-  {
-    "tld": "қаз",
-    "punycode": "xn--80ao21a"
-  },
-  {
-    "tld": "հայ",
-    "punycode": "xn--y9a3aq"
-  },
-  {
-    "tld": "ישראל",
-    "punycode": "xn--4dbrk0ce"
-  },
-  {
-    "tld": "קום",
-    "punycode": "xn--9dbq2a"
-  },
-  {
-    "tld": "ابوظبي",
-    "punycode": "xn--mgbca7dzdo"
-  },
-  {
-    "tld": "ارامكو",
-    "punycode": "xn--mgba3a3ejt"
-  },
-  {
-    "tld": "الاردن",
-    "punycode": "xn--mgbayh7gpa"
-  },
-  {
-    "tld": "البحرين",
-    "punycode": "xn--mgbcpq6gpa1a"
-  },
-  {
-    "tld": "الجزائر",
-    "punycode": "xn--lgbbat1ad8j"
-  },
-  {
-    "tld": "السعودية",
-    "punycode": "xn--mgberp4a5d4ar"
-  },
-  {
-    "tld": "العليان",
-    "punycode": "xn--mgba7c0bbn0a"
-  },
-  {
-    "tld": "المغرب",
-    "punycode": "xn--mgbc0a9azcg"
-  },
-  {
-    "tld": "امارات",
-    "punycode": "xn--mgbaam7a8h"
-  },
-  {
-    "tld": "ایران",
-    "punycode": "xn--mgba3a4f16a"
-  },
-  {
-    "tld": "بارت",
-    "punycode": "xn--mgbbh1a"
-  },
-  {
-    "tld": "بازار",
-    "punycode": "xn--mgbab2bd"
-  },
-  {
-    "tld": "بيتك",
-    "punycode": "xn--ngbe9e0a"
-  },
-  {
-    "tld": "بھارت",
-    "punycode": "xn--mgbbh1a71e"
-  },
-  {
-    "tld": "تونس",
-    "punycode": "xn--pgbs0dh"
-  },
-  {
-    "tld": "سودان",
-    "punycode": "xn--mgbpl2fh"
-  },
-  {
-    "tld": "سورية",
-    "punycode": "xn--ogbpf8fl"
-  },
-  {
-    "tld": "شبكة",
-    "punycode": "xn--ngbc5azd"
-  },
-  {
-    "tld": "عراق",
-    "punycode": "xn--mgbtx2b"
-  },
-  {
-    "tld": "عرب",
-    "punycode": "xn--ngbrx"
-  },
-  {
-    "tld": "عمان",
-    "punycode": "xn--mgb9awbf"
-  },
-  {
-    "tld": "فلسطين",
-    "punycode": "xn--ygbi2ammx"
-  },
-  {
-    "tld": "قطر",
-    "punycode": "xn--wgbl6a"
-  },
-  {
-    "tld": "كاثوليك",
-    "punycode": "xn--mgbi4ecexp"
-  },
-  {
-    "tld": "كمپنی.بھارت",
-    "punycode": "xn--fhbed7t1n.xn--mgbbh1a71e"
-  },
-  {
-    "tld": "كوم",
-    "punycode": "xn--fhbei"
-  },
-  {
-    "tld": "مصر",
-    "punycode": "xn--wgbh1c"
-  },
-  {
-    "tld": "مليسيا",
-    "punycode": "xn--mgbx4cd0ab"
-  },
-  {
-    "tld": "موريتانيا",
-    "punycode": "xn--mgbah1a3hjkrd"
-  },
-  {
-    "tld": "موقع",
-    "punycode": "xn--4gbrim"
-  },
-  {
-    "tld": "همراه",
-    "punycode": "xn--mgbt3dhd"
-  },
-  {
-    "tld": "پاكستان",
-    "punycode": "xn--mgbai9a5eva00b"
-  },
-  {
-    "tld": "پاکستان",
-    "punycode": "xn--mgbai9azgqp6j"
-  },
-  {
-    "tld": "ڀارت",
-    "punycode": "xn--mgbgu82a"
-  },
-  {
-    "tld": "कंपनी.भारत",
-    "punycode": "xn--i1b1b4ch5i.xn--h2brj9c"
-  },
-  {
-    "tld": "कॉम",
-    "punycode": "xn--11b4c3d"
-  },
-  {
-    "tld": "नेट",
-    "punycode": "xn--c2br7g"
-  },
-  {
-    "tld": "भारत",
-    "punycode": "xn--h2brj9c"
-  },
-  {
-    "tld": "भारतम्",
-    "punycode": "xn--h2breg3eve"
-  },
-  {
-    "tld": "भारोत",
-    "punycode": "xn--h2brj9c8c"
-  },
-  {
-    "tld": "संगठन",
-    "punycode": "xn--i1b6b1a6a2e"
-  },
-  {
-    "tld": "কোম্পানি.ভারত",
-    "punycode": "xn--p5b2bfp5fh3fra.xn--45brj9c"
-  },
-  {
-    "tld": "বাংলা",
-    "punycode": "xn--54b7fta0cc"
-  },
-  {
-    "tld": "ভারত",
-    "punycode": "xn--45brj9c"
-  },
-  {
-    "tld": "ভাৰত",
-    "punycode": "xn--45br5cyl"
-  },
-  {
-    "tld": "ਕੰਪਨੀ.ਭਾਰਤ",
-    "punycode": "xn--d9b2bf3g1k.xn--s9brj9c"
-  },
-  {
-    "tld": "ਭਾਰਤ",
-    "punycode": "xn--s9brj9c"
-  },
-  {
-    "tld": "કંપની.ભારત",
-    "punycode": "xn--hdc1b4ch5i.xn--gecrj9c"
-  },
-  {
-    "tld": "ભારત",
-    "punycode": "xn--gecrj9c"
-  },
-  {
-    "tld": "ଭାରତ",
-    "punycode": "xn--3hcrj9c"
-  },
-  {
-    "tld": "இந்தியா",
-    "punycode": "xn--xkc2dl3a5ee0h"
-  },
-  {
-    "tld": "இலங்கை",
-    "punycode": "xn--xkc2al3hye2a"
-  },
-  {
-    "tld": "சிங்கப்பூர்",
-    "punycode": "xn--clchc0ea0b2g2a9gcd"
-  },
-  {
-    "tld": "நிறுவனம்.இந்தியா",
-    "punycode": "xn--vlccpku2dp3h.xn--xkc2dl3a5ee0h"
-  },
-  {
-    "tld": "కంపెనీ.భారత్",
-    "punycode": "xn--goc1b4ch5i8a.xn--fpcrj9c3d"
-  },
-  {
-    "tld": "భారత్",
-    "punycode": "xn--fpcrj9c3d"
-  },
-  {
-    "tld": "ಭಾರತ",
-    "punycode": "xn--2scrj9c"
-  },
-  {
-    "tld": "ഭാരതം",
-    "punycode": "xn--rvc1e0am3e"
-  },
-  {
-    "tld": "ලංකා",
-    "punycode": "xn--fzc2c9e2c"
-  },
-  {
-    "tld": "คอม",
-    "punycode": "xn--42c2d9a"
-  },
-  {
-    "tld": "ธุรกิจ.ไทย",
-    "punycode": "xn--12co0c3b4eva.xn--o3cw4h"
-  },
-  {
-    "tld": "ไทย",
-    "punycode": "xn--o3cw4h"
-  },
-  {
-    "tld": "ລາວ",
-    "punycode": "xn--q7ce6a"
-  },
-  {
-    "tld": "გე",
-    "punycode": "xn--node"
-  },
-  {
-    "tld": "みんな",
-    "punycode": "xn--q9jyb4c"
-  },
-  {
-    "tld": "アマゾン",
-    "punycode": "xn--cckwcxetd"
-  },
-  {
-    "tld": "クラウド",
-    "punycode": "xn--gckr3f0f"
-  },
-  {
-    "tld": "グーグル",
-    "punycode": "xn--qcka1pmc"
-  },
-  {
-    "tld": "コム",
-    "punycode": "xn--tckwe"
-  },
-  {
-    "tld": "ストア",
-    "punycode": "xn--cck2b3b"
-  },
-  {
-    "tld": "セール",
-    "punycode": "xn--1ck2e1b"
-  },
-  {
-    "tld": "ファッション",
-    "punycode": "xn--bck1b9a5dre4c"
-  },
-  {
-    "tld": "ポイント",
-    "punycode": "xn--eckvdtc9d"
-  },
-  {
-    "tld": "世界",
-    "punycode": "xn--rhqv96g"
-  },
-  {
-    "tld": "中信",
-    "punycode": "xn--fiq64b"
-  },
-  {
-    "tld": "中国",
-    "punycode": "xn--fiqs8s"
-  },
-  {
-    "tld": "中國",
-    "punycode": "xn--fiqz9s"
-  },
-  {
-    "tld": "中文网",
-    "punycode": "xn--fiq228c5hs"
-  },
-  {
-    "tld": "亚马逊",
-    "punycode": "xn--jlq480n2rg"
-  },
-  {
-    "tld": "企业",
-    "punycode": "xn--vhquv"
-  },
-  {
-    "tld": "佛山",
-    "punycode": "xn--1qqw23a"
-  },
-  {
-    "tld": "信息",
-    "punycode": "xn--vuq861b"
-  },
-  {
-    "tld": "個人.香港",
-    "punycode": "xn--gmqw5a.xn--j6w193g"
-  },
-  {
-    "tld": "健康",
-    "punycode": "xn--nyqy26a"
-  },
-  {
-    "tld": "八卦",
-    "punycode": "xn--45q11c"
-  },
-  {
-    "tld": "公司",
-    "punycode": "xn--55qx5d"
-  },
-  {
-    "tld": "公司.hk",
-    "punycode": "xn--55qx5d.hk"
-  },
-  {
-    "tld": "公司.香港",
-    "punycode": "xn--55qx5d.xn--j6w193g"
-  },
-  {
-    "tld": "公益",
-    "punycode": "xn--55qw42g"
-  },
-  {
-    "tld": "台湾",
-    "punycode": "xn--kprw13d"
-  },
-  {
-    "tld": "台灣",
-    "punycode": "xn--kpry57d"
-  },
-  {
-    "tld": "商城",
-    "punycode": "xn--czru2d"
-  },
-  {
-    "tld": "商店",
-    "punycode": "xn--czrs0t"
-  },
-  {
-    "tld": "商标",
-    "punycode": "xn--czr694b"
-  },
-  {
-    "tld": "嘉里",
-    "punycode": "xn--w4rs40l"
-  },
-  {
-    "tld": "嘉里大酒店",
-    "punycode": "xn--w4r85el8fhu5dnra"
-  },
-  {
-    "tld": "在线",
-    "punycode": "xn--3ds443g"
-  },
-  {
-    "tld": "大拿",
-    "punycode": "xn--pssy2u"
-  },
-  {
-    "tld": "天主教",
-    "punycode": "xn--tiq49xqyj"
-  },
-  {
-    "tld": "娱乐",
-    "punycode": "xn--fjq720a"
-  },
-  {
-    "tld": "家電",
-    "punycode": "xn--fct429k"
-  },
-  {
-    "tld": "广东",
-    "punycode": "xn--xhq521b"
-  },
-  {
-    "tld": "微博",
-    "punycode": "xn--9krt00a"
-  },
-  {
-    "tld": "慈善",
-    "punycode": "xn--30rr7y"
-  },
-  {
-    "tld": "我爱你",
-    "punycode": "xn--6qq986b3xl"
-  },
-  {
-    "tld": "手机",
-    "punycode": "xn--kput3i"
-  },
-  {
-    "tld": "招聘",
-    "punycode": "xn--otu796d"
-  },
-  {
-    "tld": "政务",
-    "punycode": "xn--zfr164b"
-  },
-  {
-    "tld": "政府",
-    "punycode": "xn--mxtq1m"
-  },
-  {
-    "tld": "政府.香港",
-    "punycode": "xn--mxtq1m.xn--j6w193g"
-  },
-  {
-    "tld": "教育.香港",
-    "punycode": "xn--wcvs22d.xn--j6w193g"
-  },
-  {
-    "tld": "新加坡",
-    "punycode": "xn--yfro4i67o"
-  },
-  {
-    "tld": "新闻",
-    "punycode": "xn--efvy88h"
-  },
-  {
-    "tld": "时尚",
-    "punycode": "xn--9et52u"
-  },
-  {
-    "tld": "書籍",
-    "punycode": "xn--rovu88b"
-  },
-  {
-    "tld": "机构",
-    "punycode": "xn--nqv7f"
-  },
-  {
-    "tld": "淡马锡",
-    "punycode": "xn--b4w605ferd"
-  },
-  {
-    "tld": "游戏",
-    "punycode": "xn--unup4y"
-  },
-  {
-    "tld": "澳門",
-    "punycode": "xn--mix891f"
-  },
-  {
-    "tld": "点看",
-    "punycode": "xn--3pxu8k"
-  },
-  {
-    "tld": "移动",
-    "punycode": "xn--6frz82g"
-  },
-  {
-    "tld": "組織.香港",
-    "punycode": "xn--uc0atv.xn--j6w193g"
-  },
-  {
-    "tld": "網絡.香港",
-    "punycode": "xn--od0alg.xn--j6w193g"
-  },
-  {
-    "tld": "组织机构",
-    "punycode": "xn--nqv7fs00ema"
-  },
-  {
-    "tld": "网址",
-    "punycode": "xn--ses554g"
-  },
-  {
-    "tld": "网店",
-    "punycode": "xn--hxt814e"
-  },
-  {
-    "tld": "网站",
-    "punycode": "xn--5tzm5g"
-  },
-  {
-    "tld": "网络",
-    "punycode": "xn--io0a7i"
-  },
-  {
-    "tld": "联通",
-    "punycode": "xn--8y0a063a"
-  },
-  {
-    "tld": "谷歌",
-    "punycode": "xn--flw351e"
-  },
-  {
-    "tld": "购物",
-    "punycode": "xn--g2xx48c"
-  },
-  {
-    "tld": "通販",
-    "punycode": "xn--gk3at1e"
-  },
-  {
-    "tld": "集团",
-    "punycode": "xn--3bst00m"
-  },
-  {
-    "tld": "電訊盈科",
-    "punycode": "xn--fzys8d69uvgm"
-  },
-  {
-    "tld": "飞利浦",
-    "punycode": "xn--kcrx77d1x4a"
-  },
-  {
-    "tld": "食品",
-    "punycode": "xn--jvr189m"
-  },
-  {
-    "tld": "餐厅",
-    "punycode": "xn--imr513n"
-  },
-  {
-    "tld": "香格里拉",
-    "punycode": "xn--5su34j936bgsg"
-  },
-  {
-    "tld": "香港",
-    "punycode": "xn--j6w193g"
-  },
-  {
-    "tld": "닷넷",
-    "punycode": "xn--t60b56a"
-  },
-  {
-    "tld": "닷컴",
-    "punycode": "xn--mk1bu44c"
-  },
-  {
-    "tld": "삼성",
-    "punycode": "xn--cg4bki"
-  },
-  {
-    "tld": "한국",
-    "punycode": "xn--3e0b707e"
   }
 ]

@@ -68,7 +68,9 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 1. Fork the repository
 2. Create a new branch for your feature or bugfix
 3. Make your changes
-4. Submit a pull request
+4. Run `npm run test` to ensure all tests are passing
+5. Run `npm run sort` to ensure the TLD list is properly sorted
+6. Submit a pull request
 
 ## License
 
