@@ -368,6 +368,10 @@
     "punycode": "ai.in"
   },
   {
+    "tld": "ai.vn",
+    "punycode": "ai.vn"
+  },
+  {
     "tld": "aid.pl",
     "punycode": "aid.pl"
   },
@@ -5708,6 +5712,10 @@
     "punycode": "id.us"
   },
   {
+    "tld": "id.vn",
+    "punycode": "id.vn"
+  },
+  {
     "tld": "idrett.no",
     "punycode": "idrett.no"
   },
@@ -6090,6 +6098,10 @@
   {
     "tld": "io.in",
     "punycode": "io.in"
+  },
+  {
+    "tld": "io.vn",
+    "punycode": "io.vn"
   },
   {
     "tld": "ipiranga",
