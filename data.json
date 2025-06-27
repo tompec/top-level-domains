@@ -3884,6 +3884,10 @@
     "punycode": "edu.post"
   },
   {
+    "tld": "edu.pt",
+    "punycode": "edu.pt"
+  },
+  {
     "tld": "edu.py",
     "punycode": "edu.py"
   },
@@ -6062,6 +6066,10 @@
   {
     "tld": "int.ni",
     "punycode": "int.ni"
+  },
+  {
+    "tld": "int.pt",
+    "punycode": "int.pt"
   },
   {
     "tld": "int.tj",
@@ -8420,6 +8428,10 @@
     "punycode": "net.ps"
   },
   {
+    "tld": "net.pt",
+    "punycode": "net.pt"
+  },
+  {
     "tld": "net.py",
     "punycode": "net.py"
   },
@@ -8746,6 +8758,10 @@
   {
     "tld": "nome.cv",
     "punycode": "nome.cv"
+  },
+  {
+    "tld": "nome.pt",
+    "punycode": "nome.pt"
   },
   {
     "tld": "north-kazakhstan.su",
@@ -10414,6 +10430,10 @@
   {
     "tld": "publ.cv",
     "punycode": "publ.cv"
+  },
+  {
+    "tld": "publ.pt",
+    "punycode": "publ.pt"
   },
   {
     "tld": "pug.it",
