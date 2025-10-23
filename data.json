@@ -3788,6 +3788,10 @@
     "punycode": "edu.in"
   },
   {
+    "tld": "edu.it",
+    "punycode": "edu.it"
+  },
+  {
     "tld": "edu.kh",
     "punycode": "edu.kh"
   },
@@ -4414,6 +4418,10 @@
   {
     "tld": "fo",
     "punycode": "fo"
+  },
+  {
+    "tld": "fo.it",
+    "punycode": "fo.it"
   },
   {
     "tld": "foggia.it",
@@ -7274,6 +7282,10 @@
   {
     "tld": "md",
     "punycode": "md"
+  },
+  {
+    "tld": "md.it",
+    "punycode": "md.it"
   },
   {
     "tld": "md.us",
