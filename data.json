@@ -228,6 +228,10 @@
     "punycode": "act.au"
   },
   {
+    "tld": "act.edu.au",
+    "punycode": "act.edu.au"
+  },
+  {
     "tld": "actor",
     "punycode": "actor"
   },
@@ -8856,8 +8860,16 @@
     "punycode": "nsw.au"
   },
   {
+    "tld": "nsw.edu.au",
+    "punycode": "nsw.edu.au"
+  },
+  {
     "tld": "nt.au",
     "punycode": "nt.au"
+  },
+  {
+    "tld": "nt.edu.au",
+    "punycode": "nt.edu.au"
   },
   {
     "tld": "nt.ro",
@@ -10512,6 +10524,10 @@
     "punycode": "qld.au"
   },
   {
+    "tld": "qld.edu.au",
+    "punycode": "qld.edu.au"
+  },
+  {
     "tld": "qpon",
     "punycode": "qpon"
   },
@@ -10922,6 +10938,10 @@
   {
     "tld": "sa.cr",
     "punycode": "sa.cr"
+  },
+  {
+    "tld": "sa.edu.au",
+    "punycode": "sa.edu.au"
   },
   {
     "tld": "sa.it",
@@ -11818,6 +11838,10 @@
   {
     "tld": "tas.au",
     "punycode": "tas.au"
+  },
+  {
+    "tld": "tas.edu.au",
+    "punycode": "tas.edu.au"
   },
   {
     "tld": "tashkent.su",
@@ -12788,6 +12812,10 @@
     "punycode": "vic.au"
   },
   {
+    "tld": "vic.edu.au",
+    "punycode": "vic.edu.au"
+  },
+  {
     "tld": "vicenza.it",
     "punycode": "vicenza.it"
   },
@@ -12942,6 +12970,10 @@
   {
     "tld": "wa.au",
     "punycode": "wa.au"
+  },
+  {
+    "tld": "wa.edu.au",
+    "punycode": "wa.edu.au"
   },
   {
     "tld": "wa.us",
