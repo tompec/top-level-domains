@@ -1,6 +1,6 @@
 {
     "name": "top-level-domains",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "description": "A comprehensive list of all existing Top-Level Domains (TLDs) that can be registered",
     "main": "dist/src/index.js",
     "types": "dist/src/index.d.ts",
