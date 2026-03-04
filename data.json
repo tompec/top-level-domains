@@ -244,6 +244,10 @@
     "punycode": "adm.br"
   },
   {
+    "tld": "adm.ec",
+    "punycode": "adm.ec"
+  },
+  {
     "tld": "ads",
     "punycode": "ads"
   },
@@ -342,6 +346,10 @@
   {
     "tld": "agrar.hu",
     "punycode": "agrar.hu"
+  },
+  {
+    "tld": "agric.za",
+    "punycode": "agric.za"
   },
   {
     "tld": "agrigento.it",
@@ -462,6 +470,10 @@
   {
     "tld": "alt.na",
     "punycode": "alt.na"
+  },
+  {
+    "tld": "alt.za",
+    "punycode": "alt.za"
   },
   {
     "tld": "alto-adige.it",
@@ -674,6 +686,10 @@
   {
     "tld": "art.do",
     "punycode": "art.do"
+  },
+  {
+    "tld": "art.ec",
+    "punycode": "art.ec"
   },
   {
     "tld": "art.ht",
@@ -946,6 +962,10 @@
   {
     "tld": "bar",
     "punycode": "bar"
+  },
+  {
+    "tld": "bar.ec",
+    "punycode": "bar.ec"
   },
   {
     "tld": "bar.pro",
@@ -1498,6 +1518,10 @@
   {
     "tld": "bournemouth.sch.uk",
     "punycode": "bournemouth.sch.uk"
+  },
+  {
+    "tld": "bourse.za",
+    "punycode": "bourse.za"
   },
   {
     "tld": "boutique",
@@ -2092,6 +2116,10 @@
     "punycode": "city.hu"
   },
   {
+    "tld": "city.za",
+    "punycode": "city.za"
+  },
+  {
     "tld": "ck",
     "punycode": "ck"
   },
@@ -2346,6 +2374,10 @@
   {
     "tld": "co.mg",
     "punycode": "co.mg"
+  },
+  {
+    "tld": "co.mo",
+    "punycode": "co.mo"
   },
   {
     "tld": "co.ms",
@@ -3284,6 +3316,10 @@
     "punycode": "cu"
   },
   {
+    "tld": "cue.ec",
+    "punycode": "cue.ec"
+  },
+  {
     "tld": "cuisinella",
     "punycode": "cuisinella"
   },
@@ -3314,6 +3350,10 @@
   {
     "tld": "cy",
     "punycode": "cy"
+  },
+  {
+    "tld": "cybernet.za",
+    "punycode": "cybernet.za"
   },
   {
     "tld": "cymru",
@@ -3386,6 +3426,10 @@
   {
     "tld": "day",
     "punycode": "day"
+  },
+  {
+    "tld": "db.za",
+    "punycode": "db.za"
   },
   {
     "tld": "dc.us",
@@ -3536,6 +3580,10 @@
     "punycode": "directory"
   },
   {
+    "tld": "disco.ec",
+    "punycode": "disco.ec"
+  },
+  {
     "tld": "discount",
     "punycode": "discount"
   },
@@ -3590,6 +3638,10 @@
   {
     "tld": "do",
     "punycode": "do"
+  },
+  {
+    "tld": "doc.ec",
+    "punycode": "doc.ec"
   },
   {
     "tld": "docs",
@@ -3748,6 +3800,10 @@
     "punycode": "edu.az"
   },
   {
+    "tld": "edu.bd",
+    "punycode": "edu.bd"
+  },
+  {
     "tld": "edu.bh",
     "punycode": "edu.bh"
   },
@@ -3784,8 +3840,16 @@
     "punycode": "edu.cv"
   },
   {
+    "tld": "edu.do",
+    "punycode": "edu.do"
+  },
+  {
     "tld": "edu.ec",
     "punycode": "edu.ec"
+  },
+  {
+    "tld": "edu.ee",
+    "punycode": "edu.ee"
   },
   {
     "tld": "edu.eg",
@@ -3816,6 +3880,10 @@
     "punycode": "edu.gr"
   },
   {
+    "tld": "edu.gt",
+    "punycode": "edu.gt"
+  },
+  {
     "tld": "edu.hk",
     "punycode": "edu.hk"
   },
@@ -3840,6 +3908,10 @@
     "punycode": "edu.it"
   },
   {
+    "tld": "edu.jm",
+    "punycode": "edu.jm"
+  },
+  {
     "tld": "edu.jo",
     "punycode": "edu.jo"
   },
@@ -3860,6 +3932,10 @@
     "punycode": "edu.kw"
   },
   {
+    "tld": "edu.kz",
+    "punycode": "edu.kz"
+  },
+  {
     "tld": "edu.lb",
     "punycode": "edu.lb"
   },
@@ -3874,6 +3950,14 @@
   {
     "tld": "edu.mk",
     "punycode": "edu.mk"
+  },
+  {
+    "tld": "edu.mn",
+    "punycode": "edu.mn"
+  },
+  {
+    "tld": "edu.mo",
+    "punycode": "edu.mo"
   },
   {
     "tld": "edu.mr",
@@ -3944,6 +4028,10 @@
     "punycode": "edu.post"
   },
   {
+    "tld": "edu.ps",
+    "punycode": "edu.ps"
+  },
+  {
     "tld": "edu.pt",
     "punycode": "edu.pt"
   },
@@ -4002,6 +4090,10 @@
   {
     "tld": "edu.vn",
     "punycode": "edu.vn"
+  },
+  {
+    "tld": "edu.za",
+    "punycode": "edu.za"
   },
   {
     "tld": "education",
@@ -4544,6 +4636,10 @@
     "punycode": "fot.br"
   },
   {
+    "tld": "fot.ec",
+    "punycode": "fot.ec"
+  },
+  {
     "tld": "foundation",
     "punycode": "foundation"
   },
@@ -4964,8 +5060,20 @@
     "punycode": "gob.bo"
   },
   {
+    "tld": "gob.do",
+    "punycode": "gob.do"
+  },
+  {
+    "tld": "gob.ec",
+    "punycode": "gob.ec"
+  },
+  {
     "tld": "gob.es",
     "punycode": "gob.es"
+  },
+  {
+    "tld": "gob.gt",
+    "punycode": "gob.gt"
   },
   {
     "tld": "gob.mx",
@@ -5122,6 +5230,18 @@
   {
     "tld": "gov.co",
     "punycode": "gov.co"
+  },
+  {
+    "tld": "gov.do",
+    "punycode": "gov.do"
+  },
+  {
+    "tld": "gov.ec",
+    "punycode": "gov.ec"
+  },
+  {
+    "tld": "gov.ee",
+    "punycode": "gov.ee"
   },
   {
     "tld": "gov.eg",
@@ -5424,6 +5544,10 @@
     "punycode": "grocery"
   },
   {
+    "tld": "grondar.za",
+    "punycode": "grondar.za"
+  },
+  {
     "tld": "grosseto.it",
     "punycode": "grosseto.it"
   },
@@ -5514,6 +5638,10 @@
   {
     "tld": "gy",
     "punycode": "gy"
+  },
+  {
+    "tld": "gye.ec",
+    "punycode": "gye.ec"
   },
   {
     "tld": "gyeongbuk.kr",
@@ -5610,6 +5738,10 @@
   {
     "tld": "hi.us",
     "punycode": "hi.us"
+  },
+  {
+    "tld": "hiiumaa.ee",
+    "punycode": "hiiumaa.ee"
   },
   {
     "tld": "hiphop",
@@ -5792,6 +5924,10 @@
     "punycode": "ia.us"
   },
   {
+    "tld": "iaccess.za",
+    "punycode": "iaccess.za"
+  },
+  {
     "tld": "ibm",
     "punycode": "ibm"
   },
@@ -5916,6 +6052,10 @@
     "punycode": "imperia.it"
   },
   {
+    "tld": "imt.za",
+    "punycode": "imt.za"
+  },
+  {
     "tld": "in",
     "punycode": "in"
   },
@@ -5954,6 +6094,10 @@
   {
     "tld": "inc.hk",
     "punycode": "inc.hk"
+  },
+  {
+    "tld": "inca.za",
+    "punycode": "inca.za"
   },
   {
     "tld": "incheon.kr",
@@ -6488,6 +6632,10 @@
     "punycode": "jx.cn"
   },
   {
+    "tld": "k12.ec",
+    "punycode": "k12.ec"
+  },
+  {
     "tld": "kalisz.pl",
     "punycode": "kalisz.pl"
   },
@@ -6748,6 +6896,10 @@
     "punycode": "ks.us"
   },
   {
+    "tld": "kul.ee",
+    "punycode": "kul.ee"
+  },
+  {
     "tld": "kuokgroup",
     "punycode": "kuokgroup"
   },
@@ -6836,6 +6988,10 @@
     "punycode": "land"
   },
   {
+    "tld": "landesign.za",
+    "punycode": "landesign.za"
+  },
+  {
     "tld": "landrover",
     "punycode": "landrover"
   },
@@ -6882,6 +7038,10 @@
   {
     "tld": "law.pro",
     "punycode": "law.pro"
+  },
+  {
+    "tld": "law.za",
+    "punycode": "law.za"
   },
   {
     "tld": "lawyer",
@@ -7616,6 +7776,10 @@
     "punycode": "mil.az"
   },
   {
+    "tld": "mil.bd",
+    "punycode": "mil.bd"
+  },
+  {
     "tld": "mil.bo",
     "punycode": "mil.bo"
   },
@@ -7624,12 +7788,28 @@
     "punycode": "mil.br"
   },
   {
+    "tld": "mil.do",
+    "punycode": "mil.do"
+  },
+  {
+    "tld": "mil.ec",
+    "punycode": "mil.ec"
+  },
+  {
     "tld": "mil.ge",
     "punycode": "mil.ge"
   },
   {
+    "tld": "mil.gt",
+    "punycode": "mil.gt"
+  },
+  {
     "tld": "mil.iq",
     "punycode": "mil.iq"
+  },
+  {
+    "tld": "mil.jm",
+    "punycode": "mil.jm"
   },
   {
     "tld": "mil.jo",
@@ -7638,6 +7818,10 @@
   {
     "tld": "mil.kr",
     "punycode": "mil.kr"
+  },
+  {
+    "tld": "mil.kz",
+    "punycode": "mil.kz"
   },
   {
     "tld": "mil.lv",
@@ -7690,6 +7874,10 @@
   {
     "tld": "mil.ve",
     "punycode": "mil.ve"
+  },
+  {
+    "tld": "mil.za",
+    "punycode": "mil.za"
   },
   {
     "tld": "milan.it",
@@ -7806,6 +7994,10 @@
   {
     "tld": "mobi.np",
     "punycode": "mobi.np"
+  },
+  {
+    "tld": "mobi.ps",
+    "punycode": "mobi.ps"
   },
   {
     "tld": "mobi.tt",
@@ -7990,6 +8182,10 @@
   {
     "tld": "mu",
     "punycode": "mu"
+  },
+  {
+    "tld": "mun.ps",
+    "punycode": "mun.ps"
   },
   {
     "tld": "muni.il",
@@ -8480,6 +8676,10 @@
     "punycode": "net.ky"
   },
   {
+    "tld": "net.kz",
+    "punycode": "net.kz"
+  },
+  {
     "tld": "net.lb",
     "punycode": "net.lb"
   },
@@ -8812,6 +9012,10 @@
     "punycode": "ngo.lk"
   },
   {
+    "tld": "ngo.za",
+    "punycode": "ngo.za"
+  },
+  {
     "tld": "nh.us",
     "punycode": "nh.us"
   },
@@ -8846,6 +9050,10 @@
   {
     "tld": "ninja",
     "punycode": "ninja"
+  },
+  {
+    "tld": "nis.za",
+    "punycode": "nis.za"
   },
   {
     "tld": "nissan",
@@ -8946,6 +9154,10 @@
   {
     "tld": "nom.ro",
     "punycode": "nom.ro"
+  },
+  {
+    "tld": "nom.za",
+    "punycode": "nom.za"
   },
   {
     "tld": "nome.cv",
@@ -9096,6 +9308,10 @@
     "punycode": "nyc"
   },
   {
+    "tld": "nyc.mn",
+    "punycode": "nyc.mn"
+  },
+  {
     "tld": "nysa.pl",
     "punycode": "nysa.pl"
   },
@@ -9186,6 +9402,10 @@
   {
     "tld": "olecko.pl",
     "punycode": "olecko.pl"
+  },
+  {
+    "tld": "olivetti.za",
+    "punycode": "olivetti.za"
   },
   {
     "tld": "olkusz.pl",
@@ -9436,6 +9656,10 @@
     "punycode": "org.ec"
   },
   {
+    "tld": "org.ee",
+    "punycode": "org.ee"
+  },
+  {
     "tld": "org.eg",
     "punycode": "org.eg"
   },
@@ -9606,6 +9830,10 @@
   {
     "tld": "org.mm",
     "punycode": "org.mm"
+  },
+  {
+    "tld": "org.mn",
+    "punycode": "org.mn"
   },
   {
     "tld": "org.mo",
@@ -9996,6 +10224,14 @@
     "punycode": "parma.it"
   },
   {
+    "tld": "parnu.ee",
+    "punycode": "parnu.ee"
+  },
+  {
+    "tld": "parnumaa.ee",
+    "punycode": "parnumaa.ee"
+  },
+  {
     "tld": "pars",
     "punycode": "pars"
   },
@@ -10244,6 +10480,10 @@
     "punycode": "pisz.pl"
   },
   {
+    "tld": "pix.za",
+    "punycode": "pix.za"
+  },
+  {
     "tld": "pizza",
     "punycode": "pizza"
   },
@@ -10282,6 +10522,10 @@
   {
     "tld": "plc.uk",
     "punycode": "plc.uk"
+  },
+  {
+    "tld": "plo.ps",
+    "punycode": "plo.ps"
   },
   {
     "tld": "plumbing",
@@ -10354,6 +10598,10 @@
   {
     "tld": "poltava.ua",
     "punycode": "poltava.ua"
+  },
+  {
+    "tld": "polvamaa.ee",
+    "punycode": "polvamaa.ee"
   },
   {
     "tld": "pomorskie.pl",
@@ -10626,6 +10874,10 @@
   {
     "tld": "pub",
     "punycode": "pub"
+  },
+  {
+    "tld": "pub.ec",
+    "punycode": "pub.ec"
   },
   {
     "tld": "pub.sa",
@@ -11044,6 +11296,10 @@
     "punycode": "rovno.ua"
   },
   {
+    "tld": "rrpp.ec",
+    "punycode": "rrpp.ec"
+  },
+  {
     "tld": "rs",
     "punycode": "rs"
   },
@@ -11296,6 +11552,10 @@
     "punycode": "sch.om"
   },
   {
+    "tld": "sch.ps",
+    "punycode": "sch.ps"
+  },
+  {
     "tld": "sch.qa",
     "punycode": "sch.qa"
   },
@@ -11330,6 +11590,10 @@
   {
     "tld": "school.nz",
     "punycode": "school.nz"
+  },
+  {
+    "tld": "school.za",
+    "punycode": "school.za"
   },
   {
     "tld": "schule",
@@ -11530,6 +11794,10 @@
   {
     "tld": "sicily.it",
     "punycode": "sicily.it"
+  },
+  {
+    "tld": "sid.do",
+    "punycode": "sid.do"
   },
   {
     "tld": "siena.it",
@@ -12016,6 +12284,10 @@
     "punycode": "tarnobrzeg.pl"
   },
   {
+    "tld": "tartu.ee",
+    "punycode": "tartu.ee"
+  },
+  {
     "tld": "tas.au",
     "punycode": "tas.au"
   },
@@ -12094,6 +12366,10 @@
   {
     "tld": "tech",
     "punycode": "tech"
+  },
+  {
+    "tld": "tech.ec",
+    "punycode": "tech.ec"
   },
   {
     "tld": "technology",
@@ -12270,6 +12546,10 @@
   {
     "tld": "tm.ro",
     "punycode": "tm.ro"
+  },
+  {
+    "tld": "tm.za",
+    "punycode": "tm.za"
   },
   {
     "tld": "tmall",
@@ -12588,6 +12868,10 @@
     "punycode": "tur.br"
   },
   {
+    "tld": "tur.ec",
+    "punycode": "tur.ec"
+  },
+  {
     "tld": "turek.pl",
     "punycode": "turek.pl"
   },
@@ -12698,6 +12982,10 @@
   {
     "tld": "ug",
     "punycode": "ug"
+  },
+  {
+    "tld": "uio.ec",
+    "punycode": "uio.ec"
   },
   {
     "tld": "uk",
