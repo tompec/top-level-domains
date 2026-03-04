@@ -1,0 +1,8 @@
+#!/bin/sh
+
+# If data.json is staged, run process-data and re-stage it.
+if git diff --cached --name-only | grep -q '^data\.json$'; then
+    echo "data.json changed — sorting and removing duplicates..."
+    node scripts/process-data.js
+    git add data.json
+fi

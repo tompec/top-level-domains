@@ -1,5 +1,5 @@
 // This example demonstrates basic usage of the top-level-domains package
-const { tlds, getAllTlds, isTld, getPunycode, searchTlds } = require('../dist');
+const { tlds, getAllTlds, isTld, getPunycode, searchTlds } = require('../src');
 
 // Get the total number of TLDs
 console.log(`Total TLDs: ${tlds.length}`);

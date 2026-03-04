@@ -2,7 +2,8 @@
 
 /**
  * This script automates the release process for the top-level-domains package.
- * It handles versioning, building, testing, and publishing to both npm and GitHub.
+ * It handles versioning, testing, and pushing to GitHub.
+ * npm publishing is handled automatically by GitHub Actions when the version tag is pushed.
  *
  * Usage:
  *   node scripts/release.js [patch|minor|major]
@@ -70,19 +71,6 @@ function isWorkingDirectoryClean() {
 }
 
 /**
- * Checks if the user is logged in to npm
- * @returns {boolean} - Whether the user is logged in
- */
-function isNpmLoggedIn() {
-    try {
-        const whoami = exec('npm whoami', true);
-        return whoami.trim() !== '';
-    } catch (error) {
-        return false;
-    }
-}
-
-/**
  * Main release process
  */
 async function release() {
@@ -90,12 +78,6 @@ async function release() {
         // Check if git working directory is clean
         if (!isWorkingDirectoryClean()) {
             console.error('Error: Working directory is not clean. Please commit or stash your changes first.');
-            process.exit(1);
-        }
-
-        // Check if user is logged in to npm
-        if (!isNpmLoggedIn()) {
-            console.error('Error: You are not logged in to npm. Please run "npm login" first.');
             process.exit(1);
         }
 
@@ -110,10 +92,6 @@ async function release() {
         // Run tests
         console.log('\n🧪 Running tests...');
         exec('npm test');
-
-        // Build the package
-        console.log('\n🔨 Building the package...');
-        exec('npm run build');
 
         // Update version
         console.log(`\n🔖 Updating version (${versionType})...`);
@@ -136,16 +114,8 @@ async function release() {
         exec('git push');
         exec('git push --tags');
 
-        // Publish to npm
-        console.log('\n📦 Publishing to npm...');
-        exec('npm publish');
-
-        console.log(`\n✅ Release v${newVersion} completed successfully!`);
-        console.log('\nNext steps:');
-        console.log('  1. Create a release on GitHub: https://github.com/tompec/top-level-domains/releases/new');
-        console.log(`  2. Select the v${newVersion} tag`);
-        console.log('  3. Add release notes');
-        console.log('  4. Publish the release');
+        console.log(`\n✅ Release v${newVersion} tagged and pushed!`);
+        console.log('GitHub Actions will automatically publish to npm.');
 
     } catch (error) {
         console.error('Error during release process:', error.message);
